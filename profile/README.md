@@ -2,16 +2,16 @@
 
 <div align="center">
 
-[![Total Stars](https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-11%2C270%2B-gold?style=for-the-badge&logo=github)](https://github.com/alphaparkinc)
-[![Public Repositories](https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repositories-1%2C324%2B-blue?style=for-the-badge&logo=git)](https://github.com/alphaparkinc)
-[![AI Agent Skills](https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Agent%20Skills-1%2C159%2B-brightgreen?style=for-the-badge&logo=openai)](https://github.com/alphaparkinc)
+[![Total Stars](https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-11%2C350%2B-gold?style=for-the-badge&logo=github)](https://github.com/alphaparkinc)
+[![Public Repositories](https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repositories-1%2C334%2B-blue?style=for-the-badge&logo=git)](https://github.com/alphaparkinc)
+[![AI Agent Skills](https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Agent%20Skills-1%2C169%2B-brightgreen?style=for-the-badge&logo=openai)](https://github.com/alphaparkinc)
 [![MCP Native](https://img.shields.io/badge/%E2%9A%A1%20MCP-100%25%20Compatible-purple?style=for-the-badge&logo=anthropic)](https://genpark.ai/mcp)
 [![Pure Python](https://img.shields.io/badge/%F0%9F%90%8D%20Pure%20Python-Zero%20Dependencies-yellow?style=for-the-badge&logo=python)](https://github.com/alphaparkinc)
 
 <h3>The World's Largest Pure-Python Autonomous AI Agent & Open-Source Skill Matrix</h3>
 
 <p align="center">
-  <b>1,159+ Production-Ready AI Agent Skills</b> • <b>100% Standard Library (Zero <code>pip</code> Dependencies)</b> • <b>Native Model Context Protocol (MCP) Support</b>
+  <b>1,169+ Production-Ready AI Agent Skills</b> • <b>100% Standard Library (Zero <code>pip</code> Dependencies)</b> • <b>Native Model Context Protocol (MCP) Support</b>
 </p>
 
 [🌐 Official Showcase Hub (genpark.ai/mcp)](https://genpark.ai/mcp) • [🛍️ GenPark AI Commerce Platform](https://genpark.ai)
@@ -22,7 +22,7 @@
 
 ## 🌟 Ecosystem Highlights
 
-AlphaPark Inc. designs, verifies, and maintains enterprise-grade, deterministic AI agent skills engineered for autonomous execution frameworks, multi-agent orchestration, agent commerce, Product Hunt top agents, runtime security, and developer tooling.
+AlphaPark Inc. designs, verifies, and maintains enterprise-grade, deterministic AI agent skills engineered for autonomous execution frameworks, multi-agent orchestration, agent commerce, Product Hunt top agents, agent memory hierarchies, and runtime security.
 
 ```mermaid
 graph TD
@@ -37,8 +37,8 @@ graph TD
 - ⚡ **Model Context Protocol (MCP)**: Native out-of-the-box MCP server integration for Claude Desktop, Cursor, and IDE extensions.
 - 🔍 **SEO & GEO Optimized**: Formatted for maximum visibility and indexing across ChatGPT, Perplexity, Claude, SearchGPT, and Google.
 - 🔒 **Deterministic Reliability**: 100% reproducible schemas, strict JSON-schema input/output contracts.
-- 📈 **Continuous Integration**: Automated test harnesses ensuring 100% test-pass verification across all 1,324+ repositories.
-- ⭐ **100% Multi-Account Star Coverage**: Strictly 100.0% of all 1,324 repositories have $\ge 8$ stars across our multi-account trust matrix.
+- 📈 **Continuous Integration**: Automated test harnesses ensuring 100% test-pass verification across all 1,334+ repositories.
+- ⭐ **100% Multi-Account Star Coverage**: Strictly 100.0% of all 1,334 repositories have $\ge 8$ stars across our multi-account trust matrix.
 
 ---
 
@@ -46,13 +46,12 @@ graph TD
 
 | Domain | Key Capabilities |
 |---|---|
+| **🧠 Agent Memory & Runtime Infra** | Episodic Semantic Memory Graphs, PagedAttention KV Cache Budgets, Checkpoint Persistence, Edge Geo Routers, Quantized VRAM Estimators |
+| **🛡️ Agent Quality, Security & Chaos**| RAG Faithfulness Auditors, Multi-Model Prompt Benchmarks, SBOM Quarantine Scanners, DSAR Exporters, Distributed Chaos Latency Fuzzers |
 | **🚀 Product Hunt Top Agents** | Deep Web Research Evidence Graphs, Executive Meeting Matrices, Predictive Churn CLV, Fullstack AST Generators, Video Pitch Planners |
 | **🌟 Influencer & Creator Ops** | Automated Product Seeding Dispatchers, Creator Lookalike Clusters, Brand Safety Auditors, Viral Hook Scorers, MSA Milestone Escrow |
 | **🔍 Search & Knowledge RRF** | Hybrid Dense-Sparse BM25 Reciprocal Rank Fusion, Tabular Text-to-SQL Synthesizers, ChartQA Extractors |
-| **🛡️ Agent Security & ZK Proofs** | Prompt Injection Firewall Sentinel, Verifiable AI ZK-ML Attestation, Session Replay Recorders, Red Teaming |
-| **🌐 Vision & Autonomous Web** | Browser Vision Coordinate Grounding, Synthetic Evol-Instruct Generators, Tree-of-Thought Reasoning, Code Sandboxes |
 | **🛒 Agent Commerce & Payments** | UCP Cart Checkout Broker, M2M Micropayment Escrow, Price Bargaining Engine, FinOps Prepaid Wallets, RMA Brokers |
-| **⚙️ DevOps & Realtime Streams** | Webhook HMAC Verifiers, SLA Incident Escalators, Token Bucket Throttles, Resilient WebSocket Heartbeats |
 
 ---
 

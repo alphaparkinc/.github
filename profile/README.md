@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Verified Skills](https://img.shields.io/badge/Verified%20Skills-1%2C239%2B-blue.svg?style=for-the-badge&logo=anthropic)](https://genpark.ai/mcp)
-[![Public Repositories](https://img.shields.io/badge/Public%20Repos-1%2C404%2B-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/alphaparkinc)
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-11%2C910%2B%20⭐-yellow.svg?style=for-the-badge)](https://github.com/alphaparkinc)
+[![Verified Skills](https://img.shields.io/badge/Verified%20Skills-1%2C249%2B-blue.svg?style=for-the-badge&logo=anthropic)](https://genpark.ai/mcp)
+[![Public Repositories](https://img.shields.io/badge/Public%20Repos-1%2C414%2B-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/alphaparkinc)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-11%2C990%2B%20⭐-yellow.svg?style=for-the-badge)](https://github.com/alphaparkinc)
 [![Model Context Protocol](https://img.shields.io/badge/MCP%20Standard-100%25%20Compliant-purple.svg?style=for-the-badge)](https://genpark.ai/mcp)
 [![Zero Dependencies](https://img.shields.io/badge/Zero%20Dependencies-Python%20Stdlib-orange.svg?style=for-the-badge&logo=python)](https://genpark.ai)
 
@@ -34,12 +34,12 @@ Every skill repository is strictly engineered with:
 
 | Category | Description | Primary Domain |
 |---|---|---|
+| **Codex Astra Long-Horizon Memory** | Structured persistent notes ledgers, negative hypothesis patch blacklists & invariant sentinels | OpenAI Codex Astra |
+| **Autonomous Web Action & DOM** | Self-healing selectors, bot defense detectors, SPA hydration waiters & occlusion solvers | Tabbit AI, Browserbase, Stagehand |
 | **Autonomous Negotiation & Retention** | B2B contract negotiations, subscription frequency tuners & shipping claim resolution | Pactum AI, Recharge, Route, Smile.io |
 | **Catalog Operations & Compliance** | Multi-marketplace taxonomy feeds, FTC review authenticity & MAP price monitoring | ChannelEngine, Bazaarvoice, Prisync |
 | **Autonomous Consumer Agent Commerce** | BNPL installment optimizers, sizing fit recommenders & headless payment vaults | Klarna, Rufus, Bolt, Honey |
 | **Intelligent Merchant Commerce & 3PL** | Split-shipment routing, return fraud scoring, hero personalization & Shapley attribution | Flexport, Gorgias, Dynamic Yield, Triple Whale |
-| **Enterprise Agent Governance & Evals** | OpenTelemetry trace profilers, hallucination factuality verifiers & LLM judge evaluators | Arize Phoenix, Cleanlab, Braintrust |
-| **Anthropic Commerce Blueprints** | Shopping & Merchant agent suites: catalog discovery, goal baskets & pricing elasticity | Claude `anthropics/commerce-agents` |
 
 ---
 

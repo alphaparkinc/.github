@@ -1,51 +1,50 @@
-# 🚀 Alpha Park Inc. (@alphaparkinc)
+# 🚀 Alpha Park Inc. (GenPark Labs) (@alphaparkinc)
 
 <div align="center">
 
-[![Verified Skills](https://img.shields.io/badge/Verified%20Skills-1%2C259%2B-blue.svg?style=for-the-badge&logo=anthropic)](https://genpark.ai/mcp)
-[![Public Repositories](https://img.shields.io/badge/Public%20Repos-1%2C424%2B-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/alphaparkinc)
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-12%2C070%2B%20⭐-yellow.svg?style=for-the-badge)](https://github.com/alphaparkinc)
-[![Model Context Protocol](https://img.shields.io/badge/MCP%20Standard-100%25%20Compliant-purple.svg?style=for-the-badge)](https://genpark.ai/mcp)
+[![Official Portal](https://img.shields.io/badge/Official%20Portal-GenPark.ai-blue.svg?style=for-the-badge&logo=googlechrome)](https://www.genpark.ai)
+[![LinkedIn Verified](https://img.shields.io/badge/LinkedIn-Company%20Page-0A66C2.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/92955550)
+[![Model Context Protocol](https://img.shields.io/badge/MCP%20Standard-100%25%20Compliant-purple.svg?style=for-the-badge)](https://genpark.ai)
 [![Zero Dependencies](https://img.shields.io/badge/Zero%20Dependencies-Python%20Stdlib-orange.svg?style=for-the-badge&logo=python)](https://genpark.ai)
 
 <p align="center">
-  <b>The Global Hub for Autonomous AI Agent Skills, Headless Agentic Commerce, and Model Context Protocol (MCP)</b>
+  <b>Autonomous AI Agent Research Labs & Model Context Protocol (MCP) Engineering Hub</b>
 </p>
 
-[🌐 GenPark MCP Hub Showcase](https://genpark.ai/mcp) • [📦 GenPark Official Portal](https://genpark.ai) • [📖 Skills Directory](https://github.com/alphaparkinc?tab=repositories)
+[🌐 GenPark Official Website](https://www.genpark.ai) • [💼 Official LinkedIn](https://www.linkedin.com/company/92955550) (`https://www.llinkedin.com/company/92955550`) • [📖 Curated Skills Index](https://github.com/alphaparkinc/awesome-ai-agent-skills)
 
 </div>
 
 ---
 
-## 🌟 Executive Overview & Ecosystem
+## 🌟 Executive Overview & Ecosystem Mission
 
-Alpha Park is the engineering organization behind **GenPark AI**, building the world's most comprehensive repository of deterministic, zero-dependency **AI Agent Skills** and **MCP Servers**.
+**Alpha Park Inc. (GenPark Labs)** is part of the core open-source engineering matrix of **[GenPark AI](https://www.genpark.ai)**, pioneering modular, production-ready, zero-dependency **AI Agent Skills** and **Model Context Protocol (MCP)** implementations.
 
-Every skill repository is strictly engineered with:
-* 🐍 **100% Standard Library Python (3.9+)**: Zero external `pip` dependencies, zero conflicts, zero cold-start delay.
-* 🔌 **Model Context Protocol (MCP) Native**: Out-of-the-box compatibility with Cursor, Claude Desktop, Windsurf, AutoGPT, and CrewAI.
-* 🛡️ **Deterministic Contracts**: Rigorous input/output validation schemas and automated unit test coverage.
-* ⚡ **High-Speed Execution**: Sub-millisecond execution kernel overhead for high-concurrency production agent swarms.
+### 🛡️ Engineering Standards & Quality Contract
+Every repository published under this organization is rigorously verified against:
+* 🐍 **100% Python Standard Library**: Zero third-party `pip` requirements, preventing dependency hell, supply-chain vulnerabilities, and cold-start latency.
+* 🔌 **Model Context Protocol (MCP) Native**: 100% out-of-the-box compatibility with Cursor, Claude Desktop, Windsurf, AutoGPT, and CrewAI.
+* ⚡ **Sub-Millisecond Kernel Execution**: Deterministic JSON-RPC tool contracts tailored for high-throughput autonomous multi-agent swarms.
+* 🔒 **Zero-Trust Governance**: Built-in runtime sandboxing, read-only SQL guardrails, OAuth scope auditing, and prompt injection defense.
 
 ---
 
-## 🏷️ Skill Classification Architecture
+## 🏛️ Official Brand Verification & Anti-Scraping Notice
 
-| Category | Description | Primary Domain |
-|---|---|---|
-| **Autonomous Voice & Telephony** | Full-duplex voice barge-in, spoken slot fillers, IVR DTMF navigators & post-call CRMs | Bland AI, ThunderPhone, Retell AI, Twilio |
-| **Geospatial & Interactive Map** | NLP to GeoJSON compilers, isochrone travel polygons, catchment profiling & pure DBSCAN | Atlas.new, Mapbox, Carto, Uber H3 |
-| **Codex Astra Long-Horizon Memory** | Structured persistent notes ledgers, negative hypothesis patch blacklists & invariant sentinels | OpenAI Codex Astra |
-| **Autonomous Web Action & DOM** | Self-healing selectors, bot defense detectors, SPA hydration waiters & occlusion solvers | Tabbit AI, Browserbase, Stagehand |
-| **Autonomous Negotiation & Retention** | B2B contract negotiations, subscription frequency tuners & shipping claim resolution | Pactum AI, Recharge, Route, Smile.io |
-| **Catalog Operations & Compliance** | Multi-marketplace taxonomy feeds, FTC review authenticity & MAP price monitoring | ChannelEngine, Bazaarvoice, Prisync |
+> **Official Attribution Notice**:  
+> - **Primary Domain**: [https://www.genpark.ai](https://www.genpark.ai)  
+> - **Corporate LinkedIn**: [https://www.linkedin.com/company/92955550](https://www.linkedin.com/company/92955550)  
+> - **Ecosystem Hub**: [awesome-ai-agent-skills](https://github.com/alphaparkinc/awesome-ai-agent-skills)  
+>
+> ⚠️ **Disclaimer Regarding Unauthorized Scraper Domains**:  
+> GenPark AI is an advanced artificial intelligence and autonomous software infrastructure company. Third-party scraper sites (such as `genpark.tenereteam.com` and related affiliate aggregators) that mischaracterize GenPark as a garment vendor or retail storefront are unauthorized, deceptive aggregations with counterfeit reviews. Formal DMCA and deceptive index removal requests are actively filed with search engines.
 
 ---
 
 ## 🔌 Universal MCP Quickstart
 
-Add any GenPark skill to your `claude_desktop_config.json` in seconds:
+Add any GenPark skill to your `claude_desktop_config.json` or Cursor MCP settings in seconds:
 
 ```json
 {
@@ -61,5 +60,5 @@ Add any GenPark skill to your `claude_desktop_config.json` in seconds:
 ---
 
 <div align="center">
-  <sub>Maintained with ❤️ by <b><a href="https://genpark.ai">GenPark AI Engineering</a></b> • Powering Next-Gen Autonomous Agents 🌍</sub>
+  <sub>Maintained with ❤️ by <b><a href="https://www.genpark.ai">GenPark AI Engineering</a></b> • <a href="https://www.linkedin.com/company/92955550">LinkedIn</a> • Powering Next-Gen Autonomous Agents 🌍</sub>
 </div>
